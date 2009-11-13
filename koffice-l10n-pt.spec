@@ -1,5 +1,5 @@
 Name: koffice-l10n-pt
-Version: 2.0.82
+Version: 2.0.91
 Release: %mkrel 1
 Summary: Language files for KOffice Portuguese
 Group: System/Internationalization
