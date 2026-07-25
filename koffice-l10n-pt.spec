@@ -1,6 +1,6 @@
 Name: koffice-l10n-pt
 Version: 2.3.2
-Release: %mkrel 2
+Release: 3
 Summary: Language files for KOffice Portuguese
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
